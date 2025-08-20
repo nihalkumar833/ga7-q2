@@ -1,7 +1,7 @@
 ---
 marp: true
 title: Product Documentation
-author: 22f3001074.study.iitm.ac.in
+author: 22f3001074@ds.study.iitm.ac.in
 theme: default
 paginate: true
 ---
